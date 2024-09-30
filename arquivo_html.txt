@@ -2,6 +2,7 @@ Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizada
 
 Em um arquivo aparte, associe cada tag HTML com o respectivo número da área que o representa (Exemplo: 1. footer, 2. input, etc...), suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
 
+https://prozedu-my.sharepoint.com/personal/administrador_joystreet_prozeducacao_com_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam%2FIlustra%C3%A7%C3%A3o%5F01%5FCodePark01%2Epng&parent=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam&ga=1
 1.<h1>
 2.<main>
 3.<nav>
@@ -9,11 +10,13 @@ Em um arquivo aparte, associe cada tag HTML com o respectivo número da área qu
 5.<header>
 6.<h1>
 7.<p>
+https://prozedu-my.sharepoint.com/personal/administrador_joystreet_prozeducacao_com_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam%2FIlustra%C3%A7%C3%A3o%5F02%5FCodePark01%2Epng&parent=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam&ga=1
 8.<li>
 9.<footer>
 10.<a>
 11<ul>
 12.<input>
+https://prozedu-my.sharepoint.com/personal/administrador_joystreet_prozeducacao_com_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam%2FIlustra%C3%A7%C3%A3o%5F03%5FCodePark01%2Epng&parent=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam&ga=1
 13.<label>
 14.<form>
 15.<select>
